@@ -20,7 +20,7 @@
 <p align="left">
 
 <!-- Programming Languages -->
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<nobr><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/><nobr/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/csharp-original.svg" alt="C#" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
