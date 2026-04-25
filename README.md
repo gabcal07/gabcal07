@@ -48,15 +48,7 @@
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/log-z/logos/main/website-logos/kafka_on_dark.svg" alt="Kafka (dark)" width="40" height="40"/></td>
     <td><img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP (AI Core)" width="40" height="40"/></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
