@@ -39,14 +39,22 @@
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/ML/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/icon.svg" alt="MLflow" width="40" height="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Databricks-logo.svg" alt="Databricks" width="40" height="40"/></td>
   </tr>
   <tr>
+    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/log-z/logos/main/website-logos/kafka_on_dark.svg" alt="Kafka (dark)" width="40" height="40"/></td>
+    <td><img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP (AI Core)" width="40" height="40"/></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
