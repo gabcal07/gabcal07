@@ -40,7 +40,7 @@
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/icon.svg" alt="MLflow" width="40" height="40"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Databricks-logo.svg" alt="Databricks" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-docs/databricks.svg" alt="Databricks" width="40" height="40"/></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></td>
