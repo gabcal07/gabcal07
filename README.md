@@ -54,10 +54,10 @@
 
 ---
 
-<!-- <h3 align="left">Stats</h3>
+<h3 align="left">Stats</h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gabcal07&theme=dracula" alt="Gabriel-Calvente" />
+    <img src="https://stable-github-profile-trophy.vercel.app/?username=gabcal07&theme=dracula&rank=-C" alt="Gabriel-Calvente" />
   </a> 
-</p> -->
+</p>
